@@ -1,4 +1,4 @@
-### Event Emitter OSF.
+### OSF Event Emitter.
 
 Author: [Flamarion Fagundes Pinto](https://github.com/Flamarionfp).
 
